@@ -1,5 +1,6 @@
 # SumOfTimes
 This app counting how much time you need to watch every episode of your TV serie
 
-<img src='https://gfycat.com/ifr/DisastrousCornyHerculesbeetle' frameborder='0' scrolling='no' width='608' height='1080' allowfullscreen></img>
+[![Watch the video](https://raw.github.com/GabLeRoux/WebMole/master/ressources/WebMole_Youtube_Video.png)](https://gfycat.com/gifs/detail/DisastrousCornyHerculesbeetle)
+
 
